@@ -1,0 +1,56 @@
+# Visual Studio
+.vs/
+*.VC.db
+
+# VS Code
+.vscode/
+
+# JetBrains files
+.idea/**
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+*.ipa
+
+# Compiled SPIR-V Shaders
+*.spv
+
+# CMake
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# Build
+build/
+
+# MacOS
+.DS_Store
+
+.cache

@@ -1,0 +1,2 @@
+# ignore vendored code
+lib/** linguist-vendored=true
